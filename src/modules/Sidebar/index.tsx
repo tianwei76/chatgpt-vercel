@@ -71,7 +71,7 @@ const Sidebar: FC<{
       <div className="p-4 mt-2 flex items-baseline justify-between">
         <span className="text-3xl text-gradient font-[800]">ChatGPT</span>
         <a
-          href="https://github.com/GPTGenius/chatgpt-vercel"
+          href="https://www.tianwei76.com"
           target="_blank"
           rel="noreferrer"
         >
